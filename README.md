@@ -1,1 +1,1 @@
-# gamio-img
+Source for gamio.ru
